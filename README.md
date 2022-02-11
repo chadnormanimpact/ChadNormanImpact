@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ChadNormanImpact
-- 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning about GitHub
 - 💞️ I’m looking to collaborate on Cyber Security topics
 - 📫 How to reach me ... Well if you know you know. :) 
